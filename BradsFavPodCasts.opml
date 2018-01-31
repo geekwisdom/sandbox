@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>PodcastAddict registration feeds</title>
+    <dateCreated>Jan 30, 2018 7:35:33 PM</dateCreated>
+    <dateModified>Jan 30, 2018 7:35:33 PM</dateModified>
+  </head>
+  <body>
+    <outline text="A Conscious Life – Nicole Bridger" type="rss" xmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/spirituality-and-philosophy/a-conscious-life/feed/" htmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/spirituality-and-philosophy/a-conscious-life/" />
+    <outline text="Adam Curry: Daily Source Code" type="rss" xmlUrl="http://radio-weblogs.com/0001014/categories/dailySourceCode/rss.xml" htmlUrl="http://radio.weblogs.com/0001014/categories/dailySourceCode/" />
+    <outline text="Architect of Change – Connie Whitman" type="rss" xmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/sales-and-marketing/architect-of-change/feed/" htmlUrl="https://itunes.apple.com/us/podcast/architect-change-connie-whitman/id918508169?mt=2" />
+    <outline text="Comedy Factory from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/cf.xml" htmlUrl="http://www.cbc.ca/podcasting" />
+    <outline text="Creative Possibility – The Limitless Life  – Shannon Bush" type="rss" xmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/leadership-and-the-workplace/creative-possibility-the-limitless-life/feed/" htmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/leadership-and-the-workplace/creative-possibility-the-limitless-life/" />
+    <outline text="CreepsMcPasta" type="rss" xmlUrl="https://podsync.net/0uiang0fF" htmlUrl="https://youtube.com/channel/UCeHGGfhRUiH5wBpjjzbRNXg" />
+    <outline text="Dr. Henry Cloud's Leadership University Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/LeadershipUniversityPodcast" htmlUrl="http://www.drcloud.com" />
+    <outline text="Episodes of The Irrelevant Show from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/irrelevantshow.xml" htmlUrl="http://www.cbc.ca/podcasting" />
+    <outline text="MrCreepyPasta Storytime" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:21534608/sounds.rss" htmlUrl="https://www.patreon.com/MrCreepyPasta" />
+    <outline text="Note to Self" type="rss" xmlUrl="http://feeds.wnyc.org/notetoself-podcast" htmlUrl="http://www.wnyc.org/shows/notetoself" />
+    <outline text="Practical Karma: The Coach Approach – Wendy Kay" type="rss" xmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/money-and-success/practical-karma-the-coach-approach/feed/" htmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/health-and-wellness/practical-karma-the-coach-approach/" />
+    <outline text="Quirks and Quarks Segmented Show from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/quirks.xml" htmlUrl="http://www.cbc.ca/podcasting" />
+    <outline text="Ripley Radio: An On-Demand Oddcast – Ripley Radio" type="rss" xmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/fun-food-pets-and-travel/ripley-radio-an-on-demand-oddcast-tim-and-ed/feed/" htmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/fun-food-pets-and-travel/ripley-radio-an-on-demand-oddcast-tim-and-ed/" />
+    <outline text="Show Up For Your Life! – Andy Henriquez" type="rss" xmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/money-and-success/show-up-for-your-life/feed/" htmlUrl="http://webtalkradio.net/internet-talk-radio/category/podcasts/money-and-success/show-up-for-your-life/" />
+    <outline text="Sincerely, X" type="rss" xmlUrl="http://feeds.feedburner.com/SincerelyX" htmlUrl="https://art19.com/shows/sincerely-x" />
+    <outline text="Snap Judgment" type="rss" xmlUrl="http://feeds.wnyc.org/snapjudgment-wnyc" htmlUrl="http://www.wnycstudios.org/shows/snapjudgment" />
+    <outline text="Snap Judgment Presents: Spooked" type="rss" xmlUrl="http://feeds.wnyc.org/snap-judgment-spooked" htmlUrl="http://www.wnyc.org/shows/spooked" />
+    <outline text="Stuff You Should Know" type="rss" xmlUrl="https://www.howstuffworks.com/podcasts/stuff-you-should-know.rss" htmlUrl="https://www.howstuffworks.com/" />
+    <outline text="TED Talks Daily" type="rss" xmlUrl="http://feeds.feedburner.com/tedtalks_audio" htmlUrl="https://www.ted.com/talks" />
+    <outline text="The Adventure Zone" type="rss" xmlUrl="http://adventurezone.libsyn.com/rss" htmlUrl="http://adventurezone.libsyn.com/podcast" />
+    <outline text="The Nerdist" type="rss" xmlUrl="http://nerdist.libsyn.com/rss" htmlUrl="http://nerdist.com" />
+    <outline text="The Upgrade by Lifehacker" type="rss" xmlUrl="http://feeds.feedburner.com/TheUpgradeByLifehacker" htmlUrl="http://lifehacker.com" />
+    <outline text="The Ziglar Show - Inspiring Your True Performance" type="rss" xmlUrl="http://feeds.megaphone.fm/ZIG5838583303" htmlUrl="https://www.ziglarshow.com" />
+    <outline text="This Is That from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/thisisthat.xml" htmlUrl="http://www.cbc.ca/podcasting" />
+    <outline text="This Week in Tech (Audio)" type="rss" xmlUrl="http://feeds.twit.tv/twit.xml" htmlUrl="https://twit.tv/shows/this-week-in-tech" />
+    <outline text="What Will Matter" type="rss" xmlUrl="http://feeds.feedburner.com/WhatWillMatter" htmlUrl="http://whatwillmatter.com" />
+  </body>
+</opml>
