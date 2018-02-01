@@ -25,7 +25,7 @@
 This is just some text
 </div>
 <button id="magicbutton" class="button" onClick="explode();">Button</button>
-<img src="http://cdn1.iconfinder.com/data/icons/CrystalClear/22x22/actions/14_select.png" />
+<img src="http://cdn1.iconfinder.com/data/icons/CrystalClear/22x22/actions/14_select.png" style="position: relative; left: 10px;" />
 </body>
 <script type="text/javascript">
 //Demonstarte the sillyness of a button
@@ -33,22 +33,27 @@ function movemouse()
 {
 var fakeMouse = $('img');
 fakeMouse.animate({
-      top:  (inputField.position().top) + 194 ,
-      left: (inputField.position().left) + 200
-    }, 1200, 'swing', function(){
-      fakeMouse.animate({ top: "+=26px" }, 'slow');});
+    top: "+=30",
+    left: "-=50"
+  }, 1200, function() {
+    // Animation complete.
+  });
+}
+
+
 var timer=10;
 function explode()
 {
 var m=document.getElementById("main");
 fx(m);
 }
+
 function countdown()
 {
 
 if (timer > -3) {
 if (timer == 0) {
-fakemouse();
+movemouse();
 document.getElementById("magicbutton").textContent="?";
 }
 if (timer < 0) 
@@ -64,8 +69,8 @@ timer--;
 setTimeout(function(){ countdown(); }, 1000);
 }
 }
-countdown();
 
+countdown();
 function fx(o) {
   var $o = $(o);
 
