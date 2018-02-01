@@ -36,7 +36,21 @@ If in your branch (ie: develop) and you want to pull in all latest master change
 
 3) git merge origin/master (Merge your changes that you made with any other changes others have made in your develop branch)
 
+## Forking your own
 
+If you have no contribute to the project you can fork your own copy and submit your fork changes to the master
+
+1) From the main (other persons) project look for the 'fork button' [top right hand corner?]
+
+2) This causes github to creat your own repository as a fork
+
+3) You can then clone it into your own folder with git clone http://github.com/{yourusername}
+
+4) Make your changes, commit it and push back to master (Your master)
+
+5) Add an upstream to keep in sync with git remote add upstream {url of the orginal author)
+
+6) Submit a pull request to the orginal author using compare across forks
 
 ## Acknowledgments
 
