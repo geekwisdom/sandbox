@@ -26,6 +26,18 @@ First clone this sandbox for testing purposes
 
 10) Merge to production (if pull request has someting like closes #32) issue 32 is automatically closed
 
+## Updating from your branch
+
+If in your branch (ie: develop) and you want to pull in all latest master changes
+
+1) git checkout develop (if not already on develop branch)
+
+2) git fetch origin (Get up to date with origin)
+
+3) git merge origin/master (Merge your changes that you made with any other changes others have made in your develop branch)
+
+
+
 ## Acknowledgments
 
 Read detils on https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
